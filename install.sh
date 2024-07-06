@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Constants
-PYTHON_SCRIPT_URL="https://github.com/Ahmaddevxyz/AHMADDEVXYZ-SSH-Websocket-VPN/raw/main/ahmaddevxyz_websocket.py"
+PYTHON_SCRIPT_URL="https://raw.githubusercontent.com/Ahmaddevx/AHMADDEVXYZ-SSH-Websocket-VPN/main/ahmaddevxyz_websocket.py"
 AHMADDEVXYZ_MANAGER_SCRIPT_URL="https://raw.githubusercontent.com/Ahmaddevx/AHMADDEVXYZ-SSH-Websocket-VPN/main/ahmaddevxyz_manager.sh"
 INSTALL_DIR="/opt/ahmaddevxyz_websocket"
 SYSTEMD_SERVICE_FILE="/etc/systemd/system/ahmaddevxyz-websocket.service"
