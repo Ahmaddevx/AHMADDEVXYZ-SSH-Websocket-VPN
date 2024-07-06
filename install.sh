@@ -2,7 +2,7 @@
 
 # Constants
 PYTHON_SCRIPT_URL="https://github.com/Ahmaddevxyz/AHMADDEVXYZ-SSH-Websocket-VPN/raw/main/ahmaddevxyz_websocket.py"
-AHMADDEVXYZ_MANAGER_SCRIPT_URL="https://github.com/Ahmaddevxyz/AHMADDEVXYZ-SSH-Websocket-VPN/raw/main/ahmaddevxyz_manager.sh"
+AHMADDEVXYZ_MANAGER_SCRIPT_URL="https://raw.githubusercontent.com/Ahmaddevx/AHMADDEVXYZ-SSH-Websocket-VPN/main/ahmaddevxyz_manager.sh"
 INSTALL_DIR="/opt/ahmaddevxyz_websocket"
 SYSTEMD_SERVICE_FILE="/etc/systemd/system/ahmaddevxyz-websocket.service"
 PYTHON_BIN=$(command -v python3)  # Ensure python3 is available
